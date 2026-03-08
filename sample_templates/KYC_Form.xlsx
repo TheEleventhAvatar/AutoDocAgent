@@ -1,0 +1,19 @@
+This is a placeholder for KYC_Form.xlsx
+
+In a real implementation, this would be an Excel file with the following structure:
+
+Column Headers (Row 1):
+- Full Name
+- Date of Birth
+- Address
+- Phone Number
+- Email Address
+- PAN Number
+- Aadhaar Number
+- Company Name
+- Job Title
+- Annual Income
+- Account Number
+- IFSC Code
+
+The form filler would extract data from documents and populate these fields automatically.

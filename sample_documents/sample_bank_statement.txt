@@ -1,0 +1,54 @@
+NATIONAL BANK OF COMMERCE
+Monthly Account Statement
+
+Account Holder: JOHN DOE
+Account Number: 987654321
+Account Type: Checking Account
+Branch: Main Street Branch
+IFSC Code: NBC0001234
+
+Statement Period: February 1, 2024 - February 29, 2024
+Statement Date: March 1, 2024
+
+Account Summary
+Opening Balance: $15,432.50
+Total Credits: $8,500.00
+Total Debits: $6,234.75
+Closing Balance: $17,697.75
+
+TRANSACTION DETAILS
+
+Date | Description | Debit | Credit | Balance
+------------------------------------------------------------------
+02/01/24 | Opening Balance | | | $15,432.50
+02/03/24 | Salary Deposit | | $5,500.00 | $20,932.50
+02/05/24 | Grocery Store | $125.50 | | $20,807.00
+02/07/24 | Rent Payment | $2,000.00 | | $18,807.00
+02/10/24 | Freelance Payment | | $1,200.00 | $20,007.00
+02/12/24 | Electric Bill | $89.75 | | $19,917.25
+02/14/24 | Restaurant | $67.30 | | $19,849.95
+02/15/24 | Gas Station | $45.00 | | $19,804.95
+02/18/24 | Online Transfer | $500.00 | | $19,304.95
+02/20/24 | Investment Return | | $1,800.00 | $21,104.95
+02/22/24 | Insurance Premium | $234.20 | | $20,870.75
+02/25/24 | ATM Withdrawal | $200.00 | | $20,670.75
+02/28/24 | Monthly Interest | | | $20,697.75
+
+Account Information
+Customer ID: CUST123456
+Phone: (555) 123-4567
+Email: john.doe@email.com
+Address: 123 Main Street, New York, NY 10001
+
+Contact Information
+Bank Helpline: 1-800-BANK-NBC
+Email: support@nationalbank.com
+Website: www.nationalbank.com
+
+Important Notes:
+- This statement is computer-generated and requires no signature
+- Please report any discrepancies within 10 days
+- Minimum balance requirement: $1,000
+- Interest rate: 0.5% per annum
+
+EOD Balance: $17,697.75

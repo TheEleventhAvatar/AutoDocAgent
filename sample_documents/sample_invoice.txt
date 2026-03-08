@@ -1,0 +1,47 @@
+INVOICE
+
+Tech Solutions Inc.
+456 Business Avenue
+New York, NY 10002
+(555) 987-6543
+contact@techsolutions.com
+
+BILL TO:
+Global Enterprises
+789 Corporate Blvd
+Los Angeles, CA 90001
+Attn: Finance Department
+
+INVOICE #: INV-2024-001
+DATE: March 8, 2024
+DUE DATE: March 22, 2024
+P.O. #: PO-2024-456
+
+DESCRIPTION | QANTITY | UNIT PRICE | TOTAL
+---------------------------------------------
+Software Development Services | 100 hrs | $150.00 | $15,000.00
+Cloud Infrastructure Setup | 50 hrs | $200.00 | $10,000.00
+Technical Consulting | 20 hrs | $250.00 | $5,000.00
+License Fees | 1 | $2,000.00 | $2,000.00
+
+SUBTOTAL: $32,000.00
+Tax (8.5%): $2,720.00
+TOTAL DUE: $34,720.00
+
+PAYMENT TERMS:
+Net 15 days from invoice date
+Late payment fee: 1.5% per month
+
+PAYMENT METHODS:
+Bank Transfer:
+Bank: National Bank of Commerce
+Account Number: 9876543210
+Routing Number: 021000021
+IFSC Code: NBC0001234
+
+Check payable to: Tech Solutions Inc.
+
+Thank you for your business!
+
+Questions regarding this invoice should be directed to:
+billing@techsolutions.com | (555) 987-6543

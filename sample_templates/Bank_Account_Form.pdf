@@ -1,0 +1,17 @@
+This is a placeholder for Bank_Account_Form.pdf
+
+In a real implementation, this would be a PDF form with fillable fields including:
+
+- Applicant Full Name
+- Date of Birth
+- Residential Address
+- Phone Number
+- Email Address
+- PAN Number
+- Aadhaar Number
+- Occupation
+- Annual Income
+- Nominee Name
+- Nominee Relationship
+
+The PDF would have interactive form fields that can be programmatically filled using the form filler component.

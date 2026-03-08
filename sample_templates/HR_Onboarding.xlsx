@@ -1,0 +1,20 @@
+This is a placeholder for HR_Onboarding.xlsx
+
+In a real implementation, this would be an Excel file with the following structure:
+
+Column Headers (Row 1):
+- Employee Name
+- Date of Birth
+- Residential Address
+- Contact Phone
+- Email Address
+- Previous Company
+- Job Title
+- Start Date
+- Salary
+- Emergency Contact
+- Emergency Phone
+- Bank Account Number
+- PAN Number
+
+The form filler would extract data from uploaded documents and populate these fields.
